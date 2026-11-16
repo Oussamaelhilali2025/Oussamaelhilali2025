@@ -28,7 +28,7 @@ Final-year engineering student in **Computer Science, Artificial Intelligence & 
 | Area | Technologies |
 |---|---|
 | **AI / ML** | Python · PyTorch · TensorFlow/Keras · scikit-learn · NumPy · OpenCV · Matplotlib · Grad-CAM · Jupyter · Google Colab |
-| **Full-stack** | FastAPI · Next.js · React · Tailwind CSS · SQLAlchemy · Pydantic · JWT/RBAC · MariaDB · SQLite |
+| **Full-stack** | FastAPI · Next.js · React · Tailwind CSS · SQLAlchemy · Pydantic · JWT/RBAC · PHP · MariaDB · MySQL · SQLite |
 | **Mobile** | Java · Android SDK · Material Design 3 |
 | **Security / Networks** | Wazuh · Suricata · Shuffle · TheHive · Greenbone/OpenVAS · GLPI · MITRE ATT&CK · GNS3 · Cisco IOS · Netmiko · SNMP · SSH · VLAN · OSPF/EIGRP/BGP |
 | **Tools** | Git/GitHub · Docker · Linux · VS Code · Android Studio |
@@ -40,6 +40,7 @@ Final-year engineering student in **Computer Science, Artificial Intelligence & 
 | [SOC/SIEM Modular Platform](https://github.com/Oussamaelhilali2025/soc-platform) | Security operations platform for alerts, incidents, IOC, vulnerabilities and SOAR workflows | FastAPI · Next.js · MariaDB · Wazuh · Shuffle · TheHive |
 | [GNS3 Network Automation](https://github.com/Oussamaelhilali2025/gns3-network-automation) | Web dashboard to configure and monitor Cisco IOS devices in GNS3 | Python · FastAPI · Netmiko · PySNMP |
 | [Car Rental Android App](https://github.com/Oussamaelhilali2025/CarRentalApp) | Role-based car rental app with reservations, payments, notifications and maps | Java · Android SDK · SQLite · Material 3 |
+| [MediConsult](https://github.com/Oussamaelhilali2025/mediconsult) | Medical consultation platform with patient, doctor and admin dashboards, appointment booking, records and a moderated health forum | PHP · MySQL/MariaDB · HTML/CSS/JS |
 | [Pneumonia Detector](https://github.com/Oussamaelhilali2025/pneumonia-detector) | Chest X-ray classification with ResNet50, Grad-CAM and a FastAPI demo | TensorFlow/Keras · FastAPI · OpenCV |
 
 ### Currently building
